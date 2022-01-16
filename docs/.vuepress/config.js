@@ -1,5 +1,5 @@
 module.exports={
-    base:"/hacker-fast-ui/",
+    base:"/UI-libray/",
     themeConfig: {
         sidebar: [
             "/",

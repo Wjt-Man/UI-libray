@@ -2,8 +2,8 @@
 卡片组件
 
 ### 
-<card imgSrc="/lhc-s.jpg" summary="送你一朵小红花！"/>
-<card imgSrc="/lhc-t.jpg" summary="岁月安然无恙！"/>
+<card imgSrc="/UI-libray/lhc-s.jpg" summary="送你一朵小红花！"/>
+<card imgSrc="/UI-libray/lhc-t.jpg" summary="岁月安然无恙！"/>
 
 ### 代码
 
