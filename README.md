@@ -1,24 +1,23 @@
-# mock-ui
+### hacker-fast-ui 组件库
 
-## Project setup
-```
-npm install
-```
+### 快速开始
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+#### 1.安装组件库
+
+```bash
+npm i hacker-fast-ui
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+#### 2.引用组件库
 
-### Lints and fixes files
-```
-npm run lint
-```
+```js
+//全部引入
+import "hacker-fast-ui/dist/css/index.css";
+import MUI from "hacker-fast-ui";
+Vue.use(MUI);
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+//按需引用
+import "hacker-fast-ui/dist/css/demo.css";
+import { Demo } from "hacker-fast-ui";
+Vue.use(Demo);
+```

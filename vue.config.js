@@ -1,0 +1,9 @@
+module.exports={
+    pages:{
+        index:{
+            entry:"exmaples/main.js",
+            template:"public/index.html",
+            filename:"index.html"
+        }
+    }
+}
